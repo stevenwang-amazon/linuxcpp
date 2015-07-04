@@ -1,6 +1,5 @@
 # linuxcpp
 
-## GitHub Test
 This is a test for GitHub.
 
 # Format Readme File
