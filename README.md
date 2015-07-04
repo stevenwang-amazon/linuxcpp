@@ -2,7 +2,7 @@
 
 This is a test for GitHub.
 
-bash file to commit: 2 args.
+bash file to automtically push file to GitHub: 3 args.
 
 # Format Readme File
 ## GitHub Flavored Markdown
