@@ -1,13 +1,16 @@
 # linuxcpp
 
-## Git test
-This is my git test.
-
-## GitHub test
+## GitHub Test
 This is a test for GitHub.
 
-## create new branch
-new branch: dev
+# Format Readme File
+## GitHub Flavored Markdown
+Descriptions, issues, comments and pull requests are written by using GitHub Flavored Markdown. For more information on this, refer to the [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 
-## GitHub checkout dev branch
-checkout new branch
+Bold: **Google**
+
+## Markdown Basics
+[Markdown Basics](https://help.github.com/articles/markdown-basics/)
+
+## Writing on GitHub
+[Writing on GitHub](https://help.github.com/articles/writing-on-github/)
